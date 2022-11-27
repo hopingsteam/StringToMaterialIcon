@@ -1,5 +1,5 @@
 name: string_to_material_icon
-description: A new Flutter package project.
+description: A Flutter package to generate IconData from a string. Working only with Material Icons
 version: 0.0.1
 homepage: https://github.com/ajomuch92/string_2_icon
 
